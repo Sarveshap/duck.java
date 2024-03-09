@@ -1,5 +1,5 @@
 // DecoyDuck.java
-package Assign6.Part2;
+package Assign6;
 
 // DecoyDuck class extends Duck class to represent a specific type of duck
 public class DecoyDuck extends Duck {
