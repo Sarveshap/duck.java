@@ -1,5 +1,5 @@
 // Quack.java
-package Assign6.Part2;
+package Assign6;
 
 // Quack class implements the QuackBehaviour interface to represent quacking behavior
 public class Quack implements QuackBehaviour {
